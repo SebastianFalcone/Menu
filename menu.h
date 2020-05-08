@@ -7,7 +7,7 @@ P = EN QUE POSICION DE ESE MENU ESTOY
 */
 const char * Menu_Principal[] = {"Inicio", "Configuracion", "Prueba", "Salir"};
 const char * Menu_Config[] = {"Modos", "Guardar como...", "Atras"};
-const char * Menu_Config_Modos[] = {"Modo 1","Modo 2", "Modo 3", "Atras"};
+const char * Menu_Config_Modos[] = {"Modo 1","Modo 2", "Atras"};
 
 const char ** Menus[] = {Menu_Principal, Menu_Config, Menu_Config_Modos};
 
